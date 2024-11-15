@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
+    "portfinder": "^1.0.32",
+    "prompt-sync": "^4.2.0"
+  }
+}
